@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Scegli la forma corretta / Wähle die richtige Form: 'Ieri ___ (andare) al supermercato.'\nA) sono andato\nB) ho andato\nC) vado",
+    "correct_answers": ["a", "sono andato"],
+    "explanation": "🇮🇹 Il verbo 'andare' esprime movimento verso un luogo e richiede l'ausiliare 'essere'.\n🇩🇪 Das Verb 'andare' drückt eine Bewegung zu einem Ort aus und erfordert das Hilfsverb 'essere'.",
+    "keywords": ["passato prossimo", "ausiliari"]
+  },
+  {
+    "question": "Completa la frase / Ergänze den Satz: 'Mi ___ (svegliare) alle sette ogni mattina.'\nA) sveglio\nB) svegli\nC) sveglia",
+    "correct_answers": ["a", "sveglio"],
+    "explanation": "🇮🇹 'Svegliarsi' è un verbo riflessivo; la prima persona singolare è 'mi sveglio'.\n🇩🇪 'Svegliarsi' ist ein reflexives Verb; die erste Person Singular ist 'mi sveglio'.",
+    "keywords": ["verbi riflessivi", "routine"]
+  },
+  {
+    "question": "Traduci / Übersetze: 'Ich habe eine Pizza gegessen.'",
+    "correct_answers": ["ho mangiato una pizza", "io ho mangiato una pizza"],
+    "explanation": "🇮🇹 Il verbo 'mangiare' richiede l'ausiliare 'avere' al passato prossimo.\n🇩🇪 Das Verb 'mangiare' erfordert im Passato Prossimo das Hilfsverb 'avere'.",
+    "keywords": ["passato prossimo"]
+  },
+  {
+    "question": "Scegli il pronome corretto / Wähle das richtige Pronomen: 'Mangi la mela? Sì, ___ mangio.'\nA) lo\nB) la\nC) le",
+    "correct_answers": ["b", "la"],
+    "explanation": "🇮🇹 Il pronome 'la' sostituisce il nome femminile singolare 'mela'.\n🇩🇪 Das Pronomen 'la' ersetzt das weibliche Substantiv im Singular 'mela'.",
+    "keywords": ["pronomi diretti"]
+  },
+  {
+    "question": "Qual è il participio passato di / Was ist das Partizip Perfekt von: 'prendere'?\nA) prendato\nB) preso\nC) priso",
+    "correct_answers": ["b", "preso"],
+    "explanation": "🇮🇹 'Prendere' ha un participio passato irregolare: 'preso'.\n🇩🇪 'Prendere' hat ein unregelmäßiges Partizip Perfekt: 'preso'.",
+    "keywords": ["participi irregolari"]
+  },
+  {
+    "question": "Completa / Ergänze: 'Noi ci ___ (lavare) i denti.'\nA) laviamo\nB) lavate\nC) lavano",
+    "correct_answers": ["a", "laviamo"],
+    "explanation": "🇮🇹 Per 'noi' si usa il pronome riflessivo 'ci' e la desinenza '-iamo'.\n🇩🇪 Für 'noi' verwendet man das Reflexivpronomen 'ci' und die Endung '-iamo'.",
+    "keywords": ["verbi riflessivi"]
+  },
+  {
+    "question": "Scegli l'ausiliare corretto / Wähle das richtige Hilfsverb: 'Maria ___ (nascere) nel 1995.'\nA) è nata\nB) ha nato\nC) è nato",
+    "correct_answers": ["a", "è nata"],
+    "explanation": "🇮🇹 Il verbo 'nascere' richiede 'essere' e il participio concorda con il soggetto femminile (nata).\n🇩🇪 Das Verb 'nascere' erfordert 'essere' und das Partizip stimmt mit dem weiblichen Subjekt überein (nata).",
+    "keywords": ["passato prossimo", "concordanza"]
+  },
+  {
+    "question": "Traduci / Übersetze: 'Wie war das Wetter?'",
+    "correct_answers": ["com'era il tempo", "che tempo faceva"],
+    "explanation": "🇮🇹 Per descrivere il meteo nel passato si usa spesso l'imperfetto.\n🇩🇪 Um das Wetter in der Vergangenheit zu beschreiben, verwendet man oft das Imperfetto.",
+    "keywords": ["meteo", "passato"]
+  },
+  {
+    "question": "Scegli la forma corretta / Wähle die richtige Form: 'Ieri sera ___ (uscire, noi) con gli amici.'\nA) abbiamo uscito\nB) siamo usciti\nC) siamo uscite",
+    "correct_answers": ["b", "siamo usciti"],
+    "explanation": "🇮🇹 'Uscire' richiede l'ausiliare 'essere'; al plurale maschile/misto diventa 'usciti'.\n🇩🇪 'Uscire' erfordert das Hilfsverb 'essere'; im Plural maskulin/gemischt wird es zu 'usciti'.",
+    "keywords": ["verbi di movimento"]
+  },
+  {
+    "question": "Come si dice 'Kleidung' in italiano?\nA) Vestiti\nB) Scarpe\nC) Borse",
+    "correct_answers": ["a", "vestiti"],
+    "explanation": "🇮🇹 'Vestiti' o 'abbigliamento' sono i termini per Kleidung.\n🇩🇪 'Vestiti' oder 'abbigliamento' sind die Begriffe für Kleidung.",
+    "keywords": ["vocabolario", "vestiti"]
+  },
+  {
+    "question": "Completa / Ergänze: 'Loro ___ (alzarsi) presto stamattina.'\nA) si sono alzati\nB) hanno alzato\nC) si sono alzato",
+    "correct_answers": ["a", "si sono alzati"],
+    "explanation": "🇮🇹 I verbi riflessivi al passato prossimo usano sempre 'essere'.\n🇩🇪 Reflexive Verben verwenden im Passato Prossimo immer 'essere'.",
+    "keywords": ["passato prossimo", "riflessivi"]
+  },
+  {
+    "question": "Scegli il participio corretto / Wähle das richtige Partizip: 'Hai ___ (bere) il caffè?'\nA) bevuto\nB) beverato\nC) bevato",
+    "correct_answers": ["a", "bevuto"],
+    "explanation": "🇮🇹 Il participio passato di 'bere' è 'bevuto'.\n🇩🇪 Das Partizip Perfekt von 'bere' ist 'bevuto'.",
+    "keywords": ["participi irregolari"]
+  },
+  {
+    "question": "Traduci / Übersetze: 'Ich habe sie (plural) angerufen.'",
+    "correct_answers": ["li ho chiamati", "le ho chiamate"],
+    "explanation": "🇮🇹 'Li' (maschile) o 'Le' (femminile) sono i pronomi diretti plurali.\n🇩🇪 'Li' (männlich) oder 'Le' (weiblich) sind die direkten Pluralpronomen.",
+    "keywords": ["pronomi diretti"]
+  },
+  {
+    "question": "Scegli la preposizione / Wähle die Präposition: 'Vado ___ parrucchiere.'\nA) al\nB) dal\nC) nel",
+    "correct_answers": ["b", "dal"],
+    "explanation": "🇮🇹 Con le professioni si usa 'da + articolo' per indicare 'andare da una persona'.\n🇩🇪 Bei Berufen verwendet man 'da + Artikel', um 'zu einer Person gehen' auszudrücken.",
+    "keywords": ["preposizioni articolate"]
+  },
+  {
+    "question": "Qual è il participio passato di / Was ist das Partizip Perfekt von: 'dire'?\nA) diuto\nB) detto\nC) dicato",
+    "correct_answers": ["b", "detto"],
+    "explanation": "🇮🇹 Il participio di 'dire' è 'detto'.\n🇩🇪 Das Partizip von 'dire' ist 'detto'.",
+    "keywords": ["participi irregolari"]
+  },
+  {
+    "question": "Completa / Ergänze: 'Ti ___ (piacere) il film?'\nA) è piaciuto\nB) ha piaciuto\nC) sei piaciuto",
+    "correct_answers": ["a", "è piaciuto"],
+    "explanation": "🇮🇹 Il verbo 'piacere' richiede l'ausiliare 'essere'.\n🇩🇪 Das Verb 'piacere' erfordert das Hilfsverb 'essere'.",
+    "keywords": ["verbo piacere", "passato"]
+  },
+  {
+    "question": "Come si dice 'Regenschirm' in italiano?\nA) Ombrello\nB) Cappotto\nC) Guanti",
+    "correct_answers": ["a", "ombrello"],
+    "explanation": "🇮🇹 'Ombrello' serve per proteggersi dalla pioggia.\n🇩🇪 'Ombrello' dient zum Schutz vor Regen.",
+    "keywords": ["vocabolario"]
+  },
+  {
+    "question": "Scegli la forma corretta / Wähle die richtige Form: 'Noi ___ (vedere) un bel quadro.'\nA) abbiamo visto\nB) abbiamo veduto\nC) Entrambe (A e B)",
+    "correct_answers": ["c", "entrambe"],
+    "explanation": "🇮🇹 Sia 'visto' che 'veduto' sono corretti, anche se 'visto' è più comune.\n🇩🇪 Sowohl 'visto' als auch 'veduto' sind korrekt, wobei 'visto' gebräuchlicher ist.",
+    "keywords": ["participi"]
+  },
+  {
+    "question": "Traduci / Übersetze: 'Gestern war es sonnig.'",
+    "correct_answers": ["ieri c'era il sole", "ieri era soleggiato"],
+    "explanation": "🇮🇹 'C'era il sole' è l'espressione più comune.\n🇩🇪 'C'era il sole' ist der gebräuchlichste Ausdruck.",
+    "keywords": ["meteo"]
+  },
+  {
+    "question": "Scegli il pronome / Wähle das Pronomen: 'Compri i pantaloni? Sì, ___ compro.'\nA) lo\nB) li\nC) le",
+    "correct_answers": ["b", "li"],
+    "explanation": "🇮🇹 'Li' sostituisce un nome maschile plurale (i pantaloni).\n🇩🇪 'Li' ersetzt ein männliches Substantiv im Plural (i pantaloni).",
+    "keywords": ["pronomi diretti"]
+  },
+  {
+    "question": "Completa / Ergänze: 'Mia sorella ___ (pettinarsi).'\nA) si pettina\nB) ti pettini\nC) mi pettino",
+    "correct_answers": ["a", "si pettina"],
+    "explanation": "🇮🇹 Terza persona singolare riflessiva.\n🇩🇪 Dritte Person Singular reflexiv.",
+    "keywords": ["verbi riflessivi"]
+  },
+  {
+    "question": "Qual è il participio passato di / Was ist das Partizip Perfekt von: 'scrivere'?\nA) scrivato\nB) scritto\nC) scrituto",
+    "correct_answers": ["b", "scritto"],
+    "explanation": "🇮🇹 Il participio di 'scrivere' è 'scritto'.\n🇩🇪 Das Partizip von 'scrivere' ist 'scritto'.",
+    "keywords": ["participi irregolari"]
+  },
+  {
+    "question": "Traduci / Übersetze: 'Ich habe mich verspätet.'",
+    "correct_answers": ["mi sono ritardato", "ho fatto tardi"],
+    "explanation": "🇮🇹 'Fare tardi' è l'espressione più naturale in italiano.\n🇩🇪 'Fare tardi' ist der natürlichste Ausdruck im Italienischen.",
+    "keywords": ["espressioni"]
+  },
+  {
+    "question": "Scegli l'articolo plurale / Wähle den Pluralartikel: '___ stivali sono nuovi.'\nA) I\nB) Gli\nC) Le",
+    "correct_answers": ["b", "gli"],
+    "explanation": "🇮🇹 'Stivali' inizia con 's + consonante', quindi richiede 'gli'.\n🇩🇪 'Stivali' beginnt mit 's + Konsonant', daher wird 'gli' benötigt.",
+    "keywords": ["articoli"]
+  },
+  {
+    "question": "Scegli la forma corretta / Wähle die richtige Form: 'Voi ___ (divertirsi) molto ieri.'\nA) vi siete divertiti\nB) avete divertito\nC) vi siete divertito",
+    "correct_answers": ["a", "vi siete divertiti"],
+    "explanation": "🇮🇹 Passato prossimo riflessivo (seconda persona plurale).\n🇩🇪 Reflexives Passato Prossimo (zweite Person Plural).",
+    "keywords": ["verbi riflessivi"]
+  },
+  {
+    "question": "Completa / Ergänze: '___ (sapere) la notizia?'\nA) Hai saputo\nB) Hai saputo\nC) Entrambe (A e B)",
+    "correct_answers": ["a", "hai saputo"],
+    "explanation": "🇮🇹 'Sapere' al passato prossimo significa 'venire a conoscenza'.\n🇩🇪 'Sapere' im Passato Prossimo bedeutet 'erfahren'.",
+    "keywords": ["verbi"]
+  },
+  {
+    "question": "Come si dice 'Schuhe' in italiano?\nA) Calze\nB) Scarpe\nC) Pantofole",
+    "correct_answers": ["b", "scarpe"],
+    "explanation": "🇮🇹 'Scarpe' è il termine generale per Schuhe.\n🇩🇪 'Scarpe' ist der allgemeine Begriff für Schuhe.",
+    "keywords": ["vocabolario"]
+  },
+  {
+    "question": "Traduci / Übersetze: 'Wir haben alles verstanden.'",
+    "correct_answers": ["abbiamo capito tutto"],
+    "explanation": "🇮🇹 'Capire' usa l'ausiliare 'avere'.\n🇩🇪 'Capire' verwendet das Hilfsverb 'avere'.",
+    "keywords": ["passato prossimo"]
+  },
+  {
+    "question": "Scegli l'aggettivo / Wähle das Adjektiv: 'Oggi il cielo è ___.'\nA) nuvoloso\nB) nuvolosa\nC) nuvolosi",
+    "correct_answers": ["a", "nuvoloso"],
+    "explanation": "🇮🇹 L'aggettivo concorda con 'cielo' (maschile singolare).\n🇩🇪 Das Adjektiv stimmt mit 'cielo' überein (männlich Singular).",
+    "keywords": ["meteo"]
+  },
+  {
+    "question": "Qual è il participio passato di / Was ist das Partizip Perfekt von: 'fare'?\nA) farato\nB) fatto\nC) facuto",
+    "correct_answers": ["b", "fatto"],
+    "explanation": "🇮🇹 'Fare' diventa 'fatto' al passato.\n🇩🇪 'Fare' wird in der Vergangenheit zu 'fatto'.",
+    "keywords": ["participi irregolari"]
+  },
+  {
+    "question": "Completa / Ergänze: 'Maria ___ (mettersi) la giacca.'\nA) si è messa\nB) si ha messo\nC) si è messo",
+    "correct_answers": ["a", "si è messa"],
+    "explanation": "🇮🇹 Concordanza obbligatoria con il soggetto femminile in un verbo riflessivo.\n🇩🇪 Obligatorische Übereinstimmung mit dem weiblichen Subjekt bei einem reflexiven Verb.",
+    "keywords": ["concordanza", "riflessivi"]
+  },
+  {
+    "question": "Traduci / Übersetze: 'Ich habe den Schlüssel verloren.'",
+    "correct_answers": ["ho perso la chiave", "ho perduto la chiave"],
+    "explanation": "🇮🇹 Entrambi i participi di 'perdere' sono validi.\n🇩🇪 Beide Partizipien von 'perdere' sind gültig.",
+    "keywords": ["passato prossimo"]
+  },
+  {
+    "question": "Scegli il pronome / Wähle das Pronomen: 'Ascolti la radio? Sì, ___ ascolto.'\nA) lo\nB) la\nC) li",
+    "correct_answers": ["b", "la"],
+    "explanation": "🇮🇹 'Radio' è femminile singolare.\n🇩🇪 'Radio' ist weiblich Singular.",
+    "keywords": ["pronomi diretti"]
+  },
+  {
+    "question": "Come si dice 'Hemd' in italiano?\nA) Maglietta\nB) Camicia\nC) Maglione",
+    "correct_answers": ["b", "camicia"],
+    "explanation": "🇮🇹 'Camicia' è il termine per Hemd.\n🇩🇪 'Camicia' ist der Begriff für Hemd.",
+    "keywords": ["vestiti"]
+  },
+  {
+    "question": "Completa / Ergänze: 'Voi ___ (conoscere) Marco l'anno scorso.'\nA) avete conosciuto\nB) avete conosciuto\nC) conoscete",
+    "correct_answers": ["a", "avete conosciuto"],
+    "explanation": "🇮🇹 Al passato prossimo 'conoscere' significa 'fare la conoscenza'.\n🇩🇪 Im Passato Prossimo bedeutet 'conoscere' 'kennenlernen'.",
+    "keywords": ["verbi"]
+  },
+  {
+    "question": "Scegli la preposizione / Wähle die Präposition: 'Vado ___ dentista.'\nA) al\nB) dal\nC) nel",
+    "correct_answers": ["b", "dal"],
+    "explanation": "🇮🇹 Andare da una persona (professionista) = da + articolo.\n🇩🇪 Zu einer Person (Fachmann) gehen = da + Artikel.",
+    "keywords": ["preposizioni"]
+  },
+  {
+    "question": "Traduci / Übersetze: 'Er hat mir geholfen.'",
+    "correct_answers": ["mi ha aiutato"],
+    "explanation": "🇮🇹 'Aiutare' richiede l'oggetto diretto in italiano (aiutare qualcuno).\n🇩🇪 'Aiutare' erfordert im Italienischen das direkte Objekt (jemandem helfen).",
+    "keywords": ["pronomi"]
+  },
+  {
+    "question": "Qual è il participio passato di / Was ist das Partizip Perfekt von: 'leggere'?\nA) leggato\nB) letto\nC) legguto",
+    "correct_answers": ["b", "letto"],
+    "explanation": "🇮🇹 Il participio di 'leggere' è 'letto'.\n🇩🇪 Das Partizip von 'leggere' ist 'letto'.",
+    "keywords": ["participi irregolari"]
+  },
+  {
+    "question": "Scegli la forma corretta / Wähle die richtige Form: '___ (essere) una bella giornata.'\nA) è stata\nB) è stato\nC) ha stato",
+    "correct_answers": ["a", "è stata"],
+    "explanation": "🇮🇹 'Giornata' è femminile, quindi il participio concorda.\n🇩🇪 'Giornata' ist weiblich, daher stimmt das Partizip überein.",
+    "keywords": ["essere", "concordanza"]
+  },
+  {
+    "question": "Completa / Ergänze: 'Noi ci ___ (riposarsi) dopo il lavoro.'\nA) riposiamo\nB) riposate\nC) riposano",
+    "correct_answers": ["a", "riposiamo"],
+    "explanation": "🇮🇹 Verbo riflessivo 'riposarsi' (presente).\n🇩🇪 Reflexives Verb 'riposarsi' (Präsens).",
+    "keywords": ["verbi riflessivi"]
+  },
+  {
+    "question": "Come si dice 'Regen' in italiano?\nA) Neve\nB) Pioggia\nC) Vento",
+    "correct_answers": ["b", "pioggia"],
+    "explanation": "🇮🇹 'Pioggia' è l'acqua che cade dalle nuvole.\n🇩🇪 'Pioggia' ist das Wasser, das aus den Wolken fällt.",
+    "keywords": ["meteo"]
+  },
+  {
+    "question": "Traduci / Übersetze: 'Wir sind spät angekommen.'",
+    "correct_answers": ["siamo arrivati tardi", "siamo arrivate tardi"],
+    "explanation": "🇮🇹 'Arrivare' richiede l'ausiliare 'essere'.\n🇩🇪 'Arrivare' erfordert das Hilfsverb 'essere'.",
+    "keywords": ["passato prossimo"]
+  },
+  {
+    "question": "Scegli il pronome / Wähle das Pronomen: 'Vedi i bambini? Sì, ___ vedo.'\nA) li\nB) le\nC) lo",
+    "correct_answers": ["a", "li"],
+    "explanation": "🇮🇹 'Li' sostituisce un nome maschile plurale.\n🇩🇪 'Li' ersetzt ein männliches Substantiv im Plural.",
+    "keywords": ["pronomi diretti"]
+  },
+  {
+    "question": "Qual è il participio passato di / Was ist das Partizip Perfekt von: 'mettere'?\nA) mettato\nB) messo\nC) mettuto",
+    "correct_answers": ["b", "messo"],
+    "explanation": "🇮🇹 Il participio di 'mettere' è 'messo'.\n🇩🇪 Das Partizip von 'mettere' ist 'messo'.",
+    "keywords": ["participi irregolari"]
+  },
+  {
+    "question": "Scegli la forma corretta / Wähle die richtige Form: 'Ieri mi ___ (annoiare) molto.'\nA) sono annoiato\nB) ho annoiato\nC) mi sono annoiato",
+    "correct_answers": ["c", "mi sono annoiato"],
+    "explanation": "🇮🇹 Verbo riflessivo al passato prossimo con pronome 'mi'.\n🇩🇪 Reflexives Verb im Passato Prossimo mit dem Pronomen 'mi'.",
+    "keywords": ["verbi riflessivi"]
+  },
+  {
+    "question": "Traduci / Übersetze: 'Es hat geschneit.'",
+    "correct_answers": ["ha nevicato", "è nevicato"],
+    "explanation": "🇮🇹 I verbi atmosferici accettano entrambi gli ausiliari.\n🇩🇪 Meteorologische Verben akzeptieren beide Hilfsverben.",
+    "keywords": ["meteo"]
+  },
+  {
+    "question": "Scegli l'aggettivo / Wähle das Adjektiv: 'Le scarpe sono ___.'\nA) nuovi\nB) nuove\nC) nuova",
+    "correct_answers": ["b", "nuove"],
+    "explanation": "🇮🇹 'Scarpe' è femminile plurale.\n🇩🇪 'Scarpe' ist weiblich Plural.",
+    "keywords": ["aggettivi"]
+  },
+  {
+    "question": "Completa / Ergänze: 'Lui ___ (sentirsi) male.'\nA) si sente\nB) ti senti\nC) mi sento",
+    "correct_answers": ["a", "si sente"],
+    "explanation": "🇮🇹 Terza persona singolare riflessiva.\n🇩🇪 Dritte Person Singular reflexiv.",
+    "keywords": ["verbi riflessivi"]
+  },
+  {
+    "question": "Qual è il participio passato di / Was ist das Partizip Perfekt von: 'venire'?\nA) venuto\nB) venato\nC) venuto",
+    "correct_answers": ["a", "venuto"],
+    "explanation": "🇮🇹 Il participio di 'venire' è 'venuto'.\n🇩🇪 Das Partizip von 'venire' ist 'venuto'.",
+    "keywords": ["participi"]
+  },
+  {
+    "question": "Traduci / Übersetze: 'Ich habe es (masch.) gekauft.'",
+    "correct_answers": ["l'ho comprato"],
+    "explanation": "🇮🇹 'Lo' diventa 'l'' davanti ad 'ho'.\n🇩🇪 'Lo' wird vor 'ho' zu 'l''.",
+    "keywords": ["pronomi diretti"]
+  }
+]

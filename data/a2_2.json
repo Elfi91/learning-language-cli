@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Scegli la forma corretta / Wähle die richtige Form: 'Da bambino ___ (giocare) sempre in giardino.'\nA) ho giocato\nB) giocavo\nC) giocherò",
+    "correct_answers": ["b", "giocavo"],
+    "explanation": "🇮🇹 Per descrivere abitudini ripetute nel passato si usa l'Imperfetto.\n🇩🇪 Um wiederholte Gewohnheiten in der Vergangenheit zu beschreiben, verwendet man das Imperfetto.",
+    "keywords": ["imperfetto", "abitudini"]
+  },
+  {
+    "question": "Traduci / Übersetze: 'Als ich klein war.'",
+    "correct_answers": ["quando ero piccolo", "quando ero piccola"],
+    "explanation": "🇮🇹 'Ero' è l'imperfetto del verbo essere, usato per descrivere stati nel passato.\n🇩🇪 'Ero' ist das Imperfetto des Verbs essere, das verwendet wird, um Zustände in der Vergangenheit zu beschreiben.",
+    "keywords": ["imperfetto", "essere"]
+  },
+  {
+    "question": "Completa con la preposizione articolata / Ergänze mit der artikulierten Präposition: 'Il libro è ___ (su + il) tavolo.'\nA) sul\nB) sullo\nC) nel",
+    "correct_answers": ["a", "sul"],
+    "explanation": "🇮🇹 Su + il diventa 'sul'.\n🇩🇪 Su + il wird zu 'sul'.",
+    "keywords": ["preposizioni articolate"]
+  },
+  {
+    "question": "Come si dice 'Kopfschmerzen' in italiano?\nA) Mal di stomaco\nB) Mal di testa\nC) Mal di gola",
+    "correct_answers": ["b", "mal di testa"],
+    "explanation": "🇮🇹 'Testa' significa Kopf. 'Mal di testa' è il dolore alla testa.\n🇩🇪 'Testa' bedeutet Kopf. 'Mal di testa' ist der Kopfschmerz.",
+    "keywords": ["salute", "corpo umano"]
+  },
+  {
+    "question": "Scegli la forma corretta / Wähle die richtige Form: 'Mentre ___ (mangiare), ha suonato il telefono.'\nA) ho mangiato\nB) mangiavo\nC) mangio",
+    "correct_answers": ["b", "mangiavo"],
+    "explanation": "🇮🇹 L'imperfetto descrive un'azione in corso interrotta da un'altra azione (passato prossimo).\n🇩🇪 Das Imperfetto beschreibt eine laufende Handlung, die von einer anderen Handlung (Passato Prossimo) unterbrochen wird.",
+    "keywords": ["contrasto tempi", "passato"]
+  },
+  {
+    "question": "Traduci / Übersetze: 'Ich hatte Angst.'",
+    "correct_answers": ["avevo paura", "io avevo paura"],
+    "explanation": "🇮🇹 Per descrivere stati d'animo nel passato si usa l'Imperfetto di 'avere'.\n🇩🇪 Um Gefühlszustände in der Vergangenheit zu beschreiben, verwendet man das Imperfetto von 'avere'.",
+    "keywords": ["imperfetto", "emozioni"]
+  },
+  {
+    "question": "Completa con la preposizione articolata: 'Vado ___ (a + lo) zoo.'\nA) allo\nB) al\nC) dallo",
+    "correct_answers": ["a", "allo"],
+    "explanation": "🇮🇹 A + lo diventa 'allo' davanti a nomi che iniziano con 'z'.\n🇩🇪 A + lo wird vor Substantiven, die mit 'z' beginnen, zu 'allo'.",
+    "keywords": ["preposizioni articolate"]
+  },
+  {
+    "question": "Come si dice 'Rücken' in italiano?\nA) Braccio\nB) Schiena\nC) Gamba",
+    "correct_answers": ["b", "schiena"],
+    "explanation": "🇮🇹 'Schiena' è la parte posteriore del corpo.\n🇩🇪 'Schiena' ist der Rücken.",
+    "keywords": ["corpo umano"]
+  },
+  {
+    "question": "Scegli l'imperfetto corretto: 'Noi ___ (essere) molto felici.'\nA) eravamo\nB) siamo stati\nC) eravate",
+    "correct_answers": ["a", "eravamo"],
+    "explanation": "🇮🇹 Prima persona plurale dell'imperfetto di essere.\n🇩🇪 Erste Person Plural des Imperfetto von essere.",
+    "keywords": ["imperfetto"]
+  },
+  {
+    "question": "Traduci / Übersetze: 'Es war einmal.'",
+    "correct_answers": ["c'era una volta"],
+    "explanation": "🇮🇹 Formula tipica per iniziare le favole usando l'imperfetto di 'esserci'.\n🇩🇪 Typische Formel für den Beginn von Märchen unter Verwendung des Imperfetto von 'esserci'.",
+    "keywords": ["formule fisse"]
+  },
+  {
+    "question": "Scegli la preposizione articolata: 'Usciamo ___ (da + il) bar.'\nA) dal\nB) del\nC) dal'",
+    "correct_answers": ["a", "dal"],
+    "explanation": "🇮🇹 Da + il diventa 'dal'.\n🇩🇪 Da + il wird zu 'dal'.",
+    "keywords": ["preposizioni articolate"]
+  },
+  {
+    "question": "Come si dice 'Finger' in italiano?\nA) Dito\nB) Mano\nC) Piede",
+    "correct_answers": ["a", "dito"],
+    "explanation": "🇮🇹 'Dito' (singolare) diventa 'dita' (plurale irregolare).\n🇩🇪 'Dito' (Singular) wird zu 'dita' (unregelmäßiger Plural).",
+    "keywords": ["corpo umano"]
+  },
+  {
+    "question": "Completa: 'Quando ___ (vivere) in Italia, mangiavo molta pasta.'\nA) vivevo\nB) ho vissuto\nC) vivo",
+    "correct_answers": ["a", "vivevo"],
+    "explanation": "🇮🇹 Azione continuata nel passato.\n🇩🇪 Fortgesetzte Handlung in der Vergangenheit.",
+    "keywords": ["imperfetto"]
+  },
+  {
+    "question": "Traduci / Übersetze: 'Mi fa male la gola.'",
+    "correct_answers": ["ho mal di gola"],
+    "explanation": "🇮🇹 Si può dire sia 'mi fa male la...' sia 'ho mal di...'.\n🇩🇪 Man kann sowohl 'mi fa male la...' als auch 'ho mal di...' sagen.",
+    "keywords": ["salute"]
+  },
+  {
+    "question": "Scegli la forma corretta: 'Ieri ___ (fare) bel tempo.'\nA) faceva\nB) ha fatto\nC) Entrambe (A e B)",
+    "correct_answers": ["c", "entrambe"],
+    "explanation": "🇮🇹 Si usa l'imperfetto per descrivere il clima, ma il passato prossimo se ci si riferisce a un momento specifico.\n🇩🇪 Das Imperfetto wird verwendet, um das Wetter zu beschreiben, aber das Passato Prossimo, wenn man sich auf einen bestimmten Moment bezieht.",
+    "keywords": ["meteo", "passato"]
+  },
+  {
+    "question": "Qual è il plurale di 'il braccio'?\nA) i bracci\nB) le braccia\nC) gli bracci",
+    "correct_answers": ["b", "le braccia"],
+    "explanation": "🇮🇹 Molte parti del corpo hanno il plurale irregolare in -a (femminile).\n🇩🇪 Viele Körperteile haben den unregelmäßigen Plural auf -a (weiblich).",
+    "keywords": ["plurale", "corpo umano"]
+  },
+  {
+    "question": "Scegli la preposizione articolata: 'Il gatto è ___ (sotto + il) letto.'\nA) sotto il\nB) sul\nC) nel",
+    "correct_answers": ["a", "sotto il"],
+    "explanation": "🇮🇹 'Sotto' non si fonde con l'articolo (nella lingua moderna).\n🇩🇪 'Sotto' verschmilzt nicht mit dem Artikel (in der modernen Sprache).",
+    "keywords": ["preposizioni"]
+  },
+  {
+    "question": "Traduci / Übersetze: 'Ich war müde.'",
+    "correct_answers": ["ero stanco", "ero stanca"],
+    "explanation": "🇮🇹 Descrizione di uno stato fisico nel passato.\n🇩🇪 Beschreibung eines körperlichen Zustands in der Vergangenheit.",
+    "keywords": ["imperfetto"]
+  },
+  {
+    "question": "Completa: 'Mentre tu dormivi, io ___ (leggere).'\nA) leggevo\nB) ho letto\nC) leggo",
+    "correct_answers": ["a", "leggevo"],
+    "explanation": "🇮🇹 Due azioni contemporanee nel passato usano entrambe l'imperfetto.\n🇩🇪 Zwei gleichzeitige Handlungen in der Vergangenheit verwenden beide das Imperfetto.",
+    "keywords": ["contemporaneità", "imperfetto"]
+  },
+  {
+    "question": "Come si dice 'Auge' in italiano?\nA) Orecchio\nB) Occhio\nC) Naso",
+    "correct_answers": ["b", "occhio"],
+    "explanation": "🇮🇹 'Occhio' serve per vedere.\n🇩🇪 'Occhio' dient zum Sehen.",
+    "keywords": ["corpo umano"]
+  },
+  {
+    "question": "Scegli la preposizione articolata: 'I chiavi sono ___ (in + la) borsa.'\nA) nella\nB) alla\nC) dalla",
+    "correct_answers": ["a", "nella"],
+    "explanation": "🇮🇹 In + la diventa 'nella'.\n🇩🇪 In + la wird zu 'nella'.",
+    "keywords": ["preposizioni articolate"]
+  },
+  {
+    "question": "Traduci: 'Es war dunkel.'",
+    "correct_answers": ["era buio", "faceva buio"],
+    "explanation": "🇮🇹 Si usa l'imperfetto per descrivere l'atmosfera o l'ambiente.\n🇩🇪 Man verwendet das Imperfetto, um die Atmosphäre oder die Umgebung zu beschreiben.",
+    "keywords": ["descrizioni"]
+  },
+  {
+    "question": "Completa: 'Tutti i giorni ___ (prendere) il treno.'\nA) prendevo\nB) ho preso\nC) prendo",
+    "correct_answers": ["a", "prendevo"],
+    "explanation": "🇮🇹 L'espressione 'tutti i giorni' indica abitudine (Imperfetto).\n🇩🇪 Der Ausdruck 'tutti i giorni' deutet auf eine Gewohnheit hin (Imperfetto).",
+    "keywords": ["abitudini"]
+  },
+  {
+    "question": "Come si dice 'Magen' in italiano?\nA) Cuore\nB) Stomaco\nC) Polmoni",
+    "correct_answers": ["b", "stomaco"],
+    "explanation": "🇮🇹 Lo stomaco serve per la digestione.\n🇩🇪 Der Magen dient der Verdauung.",
+    "keywords": ["corpo umano"]
+  },
+  {
+    "question": "Scegli la forma corretta: 'Voi ___ (sapere) tutto.'\nA) sapevate\nB) avete saputo\nC) sapete",
+    "correct_answers": ["a", "sapevate"],
+    "explanation": "🇮🇹 'Sapevate' indica uno stato di conoscenza continuato.\n🇩🇪 'Sapevate' gibt einen fortdauernden Wissenszustand an.",
+    "keywords": ["imperfetto"]
+  },
+  {
+    "question": "Traduci: 'Ich habe mir das Bein gebrochen.'",
+    "correct_answers": ["mi sono rotto la gamba", "mi sono rotta la gamba"],
+    "explanation": "🇮🇹 I verbi che riguardano parti del corpo usano spesso la forma riflessiva.\n🇩🇪 Verben, die Körperteile betreffen, verwenden oft die reflexive Form.",
+    "keywords": ["salute", "passato prossimo"]
+  },
+  {
+    "question": "Scegli la preposizione articolata: 'Parlo ___ (di + il) mio viaggio.'\nA) del\nB) dal\nC) al",
+    "correct_answers": ["a", "del"],
+    "explanation": "🇮🇹 Di + il diventa 'del'.\n🇩🇪 Di + il wird zu 'del'.",
+    "keywords": ["preposizioni articolate"]
+  },
+  {
+    "question": "Come si dice 'Zahn' in italiano?\nA) Dente\nB) Labbro\nC) Lingua",
+    "correct_answers": ["a", "dente"],
+    "explanation": "🇮🇹 I denti servono per masticare.\n🇩🇪 Die Zähne dienen zum Kauen.",
+    "keywords": ["corpo umano"]
+  },
+  {
+    "question": "Completa: 'Da piccola ___ (volere) diventare ballerina.'\nA) volevo\nB) ho voluto\nC) voglio",
+    "correct_answers": ["a", "volevo"],
+    "explanation": "🇮🇹 I desideri d'infanzia si esprimono con l'Imperfetto.\n🇩🇪 Kindheitswünsche werden mit dem Imperfetto ausgedrückt.",
+    "keywords": ["imperfetto"]
+  },
+  {
+    "question": "Scegli l'opzione corretta: 'C'era molto ___ (traffico) stamattina.'\nA) traffico\nB) traffica\nC) traffici",
+    "correct_answers": ["a", "traffico"],
+    "explanation": "🇮🇹 Descrizione di una situazione nel passato.\n🇩🇪 Beschreibung einer Situation in der Vergangenheit.",
+    "keywords": ["descrizioni"]
+  },
+  {
+    "question": "Traduci: 'Ich fühlte mich nicht gut.'",
+    "correct_answers": ["non mi sentivo bene"],
+    "explanation": "🇮🇹 Imperfetto del verbo riflessivo 'sentirsi'.\n🇩🇪 Imperfetto des reflexiven Verbs 'sentirsi'.",
+    "keywords": ["salute"]
+  },
+  {
+    "question": "Scegli la preposizione articolata: 'Andiamo ___ (in + la) cucina.'\nA) nella\nB) alla\nC) dalla",
+    "correct_answers": ["a", "nella"],
+    "explanation": "🇮🇹 In + la diventa 'nella'.\n🇩🇪 In + la wird zu 'nella'.",
+    "keywords": ["preposizioni articolate"]
+  },
+  {
+    "question": "Qual è il participio passato di 'venire'?\nA) venuto\nB) venato\nC) venuto",
+    "correct_answers": ["a", "venuto"],
+    "explanation": "🇮🇹 'Venuto' è il participio passato corretto.\n🇩🇪 'Venuto' ist das korrekte Partizip Perfekt.",
+    "keywords": ["participi"]
+  },
+  {
+    "question": "Come si dice 'Herz' in italiano?\nA) Cuore\nB) Cervello\nC) Fegato",
+    "correct_answers": ["a", "cuore"],
+    "explanation": "🇮🇹 Il cuore batte.\n🇩🇪 Das Herz schlägt.",
+    "keywords": ["corpo umano"]
+  },
+  {
+    "question": "Scegli la forma corretta: 'Io ___ (avere) cinque anni.'\nA) avevo\nB) ho avuto\nC) avrò",
+    "correct_answers": ["a", "avevo"],
+    "explanation": "🇮🇹 L'età nel passato si esprime sempre con l'imperfetto.\n🇩🇪 Das Alter in der Vergangenheit wird immer mit dem Imperfetto ausgedrückt.",
+    "keywords": ["imperfetto", "età"]
+  },
+  {
+    "question": "Traduci: 'Er hatte Fieber.'",
+    "correct_answers": ["aveva la febbre"],
+    "explanation": "🇮🇹 'Avere la febbre' descrive uno stato di salute nel passato.\n🇩🇪 'Avere la febbre' beschreibt einen Gesundheitszustand in der Vergangenheit.",
+    "keywords": ["salute"]
+  },
+  {
+    "question": "Scegli la preposizione articolata: 'Vengo ___ (da + la) Germania.'\nA) dalla\nB) nella\nC) alla",
+    "correct_answers": ["a", "dalla"],
+    "explanation": "🇮🇹 Da + la diventa 'dalla'.\n🇩🇪 Da + la wird zu 'dalla'.",
+    "keywords": ["preposizioni articolate"]
+  },
+  {
+    "question": "Come si dice 'Fuß' in italiano?\nA) Mano\nB) Piede\nC) Ginocchio",
+    "correct_answers": ["b", "piede"],
+    "explanation": "🇮🇹 Il piede serve per camminare.\n🇩🇪 Der Fuß dient zum Gehen.",
+    "keywords": ["corpo umano"]
+  },
+  {
+    "question": "Completa: 'Non ___ (potere) venire perché ero stanco.'\nA) potevo\nB) ho potuto\nC) Entrambe (A e B)",
+    "correct_answers": ["c", "entrambe"],
+    "explanation": "🇮🇹 La scelta dipende se si vuole enfatizzare lo stato (potevo) o l'insuccesso (non ho potuto).\n🇩🇪 Die Wahl hängt davon ab, ob man den Zustand (potevo) oder den Misserfolg (non ho potuto) betonen möchte.",
+    "keywords": ["verbi modali", "passato"]
+  },
+  {
+    "question": "Qual è il plurale di 'l'orecchio'?\nA) le orecchie\nB) gli orecchi\nC) Entrambe (A e B)",
+    "correct_answers": ["c", "entrambe"],
+    "explanation": "🇮🇹 'Orecchio' accetta entrambi i plurali, ma 'le orecchie' è più comune.\n🇩🇪 'Orecchio' akzeptiert beide Plurale, aber 'le orecchie' ist gebräuchlicher.",
+    "keywords": ["corpo umano", "plurale"]
+  },
+  {
+    "question": "Scegli la preposizione articolata: 'Guarda ___ (a + lo) specchio.'\nA) allo\nB) al\nC) nello",
+    "correct_answers": ["a", "allo"],
+    "explanation": "🇮🇹 A + lo diventa 'allo'.\n🇩🇪 A + lo wird zu 'allo'.",
+    "keywords": ["preposizioni articolate"]
+  },
+  {
+    "question": "Traduci: 'Das war teuer.'",
+    "correct_answers": ["era costoso", "costava molto"],
+    "explanation": "🇮🇹 Si usa l'imperfetto per descrivere il valore di qualcosa nel passato.\n🇩🇪 Man verwendet das Imperfetto, um den Wert von etwas in der Vergangenheit zu beschreiben.",
+    "keywords": ["imperfetto"]
+  },
+  {
+    "question": "Completa: 'Mentre io studiavo, mio fratello ___ (ascoltare) musica.'\nA) ascoltava\nB) ha ascoltato\nC) ascolta",
+    "correct_answers": ["a", "ascoltava"],
+    "explanation": "🇮🇹 Azioni parallele nel passato.\n🇩🇪 Parallelhandlungen in der Vergangenheit.",
+    "keywords": ["imperfetto"]
+  },
+  {
+    "question": "Come si dice 'Haut' in italiano?\nA) Pelle\nB) Sangue\nC) Ossa",
+    "correct_answers": ["a", "pelle"],
+    "explanation": "🇮🇹 La pelle copre tutto il corpo.\n🇩🇪 Die Haut bedeckt den ganzen Körper.",
+    "keywords": ["corpo umano"]
+  },
+  {
+    "question": "Scegli la forma corretta: '___ (esserci) molte persone ieri.'\nA) c'erano\nB) c'era\nC) ci sono state",
+    "correct_answers": ["a", "c'erano"],
+    "explanation": "🇮🇹 Plurale dell'imperfetto di esserci.\n🇩🇪 Plural des Imperfetto von esserci.",
+    "keywords": ["imperfetto"]
+  },
+  {
+    "question": "Traduci: 'Ich bin hingefallen.'",
+    "correct_answers": ["sono caduto", "sono caduta"],
+    "explanation": "🇮🇹 Cadere richiede l'ausiliare essere.\n🇩🇪 Cadere erfordert das Hilfsverb essere.",
+    "keywords": ["passato prossimo"]
+  },
+  {
+    "question": "Scegli la preposizione articolata: 'Dobbiamo andare ___ (da + il) medico.'\nA) dal\nB) al\nC) del",
+    "correct_answers": ["a", "dal"],
+    "explanation": "🇮🇹 Da + il diventa 'dal' per indicare moto a luogo verso una persona.\n🇩🇪 Da + il wird zu 'dal', um eine Bewegung zu einer Person hin anzugeben.",
+    "keywords": ["preposizioni articolate"]
+  },
+  {
+    "question": "Come si dice 'Husten' in italiano?\nA) Tosse\nB) Raffreddore\nC) Influenza",
+    "correct_answers": ["a", "tosse"],
+    "explanation": "🇮🇹 La tosse è un sintomo tipico del raffreddore.\n🇩🇪 Husten ist ein typisches Symptom einer Erkältung.",
+    "keywords": ["salute"]
+  },
+  {
+    "question": "Completa: 'Ieri sera ___ (essere) stanchissimo.'\nA) ero\nB) sono stato\nC) Entrambe (A e B)",
+    "correct_answers": ["c", "entrambe"],
+    "explanation": "🇮🇹 Entrambe sono accettabili a seconda della sfumatura che si vuole dare.\n🇩🇪 Beide sind akzeptabel, je nachdem, welche Nuance man vermitteln möchte.",
+    "keywords": ["passato"]
+  },
+  {
+    "question": "Traduci: 'Mir taten die Füße weh.'",
+    "correct_answers": ["mi facevano male i piedi"],
+    "explanation": "🇮🇹 Imperfetto del verbo fare per descrivere un dolore continuato nel passato.\n🇩🇪 Imperfetto des Verbs fare, um einen anhaltenden Schmerz in der Vergangenheit zu beschreiben.",
+    "keywords": ["salute", "imperfetto"]
+  }
+]

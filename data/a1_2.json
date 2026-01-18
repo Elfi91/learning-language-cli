@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Scegli la forma corretta / Wähle die richtige Form: 'Io ___ un libro.'\nA) leggo\nB) leggi\nC) legge",
+        "correct_answers": ["a", "leggo"],
+        "explanation": "🇮🇹 Il verbo 'leggere' alla prima persona singolare fa 'leggo'.\n🇩🇪 Das Verb 'leggere' in der ersten Person Singular ist 'leggo'.",
+        "keywords": ["verbi", "presente"]
+    },
+    {
+        "question": "Traduci / Übersetze: 'Meine Schwester.'",
+        "correct_answers": ["mia sorella"],
+        "explanation": "🇮🇹 Con i nomi di famiglia singolari non si usa l'articolo.\n🇩🇪 Bei Familienmitgliedern im Singular wird der Artikel nicht verwendet.",
+        "keywords": ["possessivi", "famiglia"]
+    },
+    {
+        "question": "Completa la frase / Ergänze den Satz: 'Vado ___ casa.'\nA) a\nB) in\nC) di",
+        "correct_answers": ["a"],
+        "explanation": "🇮🇹 Con 'casa' si usa la preposizione semplice 'a'.\n🇩🇪 Mit 'casa' verwendet man die einfache Präposition 'a'.",
+        "keywords": ["preposizioni"]
+    },
+    {
+        "question": "Che ore sono? / Wie spät ist es? (13:00)\nA) È l'una\nB) Sono le una\nC) È le uno",
+        "correct_answers": ["a", "è l'una"],
+        "explanation": "🇮🇹 Per le 13:00 si usa il singolare 'È l'una'.\n🇩🇪 Für 13:00 Uhr verwendet man den Singular 'È l'una'.",
+        "keywords": ["orario"]
+    },
+    {
+        "question": "Come si dice 'Frühstück' in italiano?\nA) Pranzo\nB) Colazione\nC) Cena",
+        "correct_answers": ["b", "colazione"],
+        "explanation": "🇮🇹 La 'colazione' è il primo pasto del mattino.\n🇩🇪 'Colazione' ist die erste Mahlzeit am Morgen.",
+        "keywords": ["cibo", "vocabolario"]
+    },
+    {
+        "question": "Scegli la forma corretta / Wähle die richtige Form: 'Noi ___ la birra.'\nA) prendiamo\nB) prendete\nC) prendono",
+        "correct_answers": ["a", "prendiamo"],
+        "explanation": "🇮🇹 La desinenza per 'noi' è '-iamo'.\n🇩🇪 Die Endung für 'noi' ist '-iamo'.",
+        "keywords": ["verbi", "presente"]
+    },
+    {
+        "question": "Traduci / Übersetze: 'Ein Glas Wasser.'",
+        "correct_answers": ["un bicchiere d'acqua", "un bicchiere di acqua"],
+        "explanation": "🇮🇹 Usiamo 'di' per indicare il contenuto.\n🇩🇪 Wir verwenden 'di', um den Inhalt anzugeben.",
+        "keywords": ["cibo", "preposizioni"]
+    },
+    {
+        "question": "Scegli l'aggettivo corretto / Wähle das richtige Adjektiv: 'La pizza è ___.'\nA) buono\nB) buona\nC) buoni",
+        "correct_answers": ["b", "buona"],
+        "explanation": "🇮🇹 L'aggettivo deve concordare con 'pizza' (femminile).\n🇩🇪 Das Adjektiv muss mit 'pizza' übereinstimmen (weiblich).",
+        "keywords": ["aggettivi"]
+    },
+    {
+        "question": "Come si dice 'Eltern' in italiano?\nA) Parenti\nB) Genitori\nC) Nonni",
+        "correct_answers": ["b", "genitori"],
+        "explanation": "🇮🇹 'Genitori' significa Eltern.\n🇩🇪 'Genitori' bedeutet Eltern.",
+        "keywords": ["famiglia"]
+    },
+    {
+        "question": "Scegli la preposizione / Wähle die Präposition: 'Abito ___ Berlino.'\nA) in\nB) a\nC) di",
+        "correct_answers": ["b", "a"],
+        "explanation": "🇮🇹 Con i nomi di città si usa 'a'.\n🇩🇪 Bei Städtenamen verwendet man 'a'.",
+        "keywords": ["preposizioni", "città"]
+    },
+    {
+        "question": "Traduci / Übersetze: 'Ich schlafe.'",
+        "correct_answers": ["dormo", "io dormo"],
+        "explanation": "🇮🇹 Il verbo 'dormire' fa 'dormo' alla prima persona.\n🇩🇪 Das Verb 'dormire' ist in der ersten Person 'dormo'.",
+        "keywords": ["verbi"]
+    },
+    {
+        "question": "Che ore sono? / Wie spät ist es? (08:30)\nA) Sono le otto e mezzo\nB) Sono le otto e trenta\nC) Entrambe (A e B)",
+        "correct_answers": ["c", "entrambe"],
+        "explanation": "🇮🇹 Si può dire sia 'e mezzo' che 'e trenta'.\n🇩🇪 Man kann sowohl 'e mezzo' als auch 'e trenta' sagen.",
+        "keywords": ["orario"]
+    },
+    {
+        "question": "Scegli il verbo corretto / Wähle das richtige Verb: 'Tu ___ molto bene.'\nA) scrivi\nB) scrivo\nC) scrivete",
+        "correct_answers": ["a", "scrivi"],
+        "explanation": "🇮🇹 Seconda persona singolare (tu) di scrivere.\n🇩🇪 Zweite Person Singular (tu) von scrivere.",
+        "keywords": ["verbi"]
+    },
+    {
+        "question": "Traduci / Übersetze: 'Mein Bruder.'",
+        "correct_answers": ["mio fratello"],
+        "explanation": "🇮🇹 Con i membri della famiglia singolari non si usa l'articolo.\n🇩🇪 Bei Familienmitgliedern im Singular wird der Artikel nicht verwendet.",
+        "keywords": ["famiglia", "possessivi"]
+    },
+    {
+        "question": "Come si dice 'Abendessen' in italiano?\nA) Colazione\nB) Pranzo\nC) Cena",
+        "correct_answers": ["c", "cena"],
+        "explanation": "🇮🇹 La 'cena' si consuma la sera.\n🇩🇪 Das 'cena' wird am Abend gegessen.",
+        "keywords": ["cibo"]
+    },
+    {
+        "question": "Scegli la preposizione / Wähle die Präposition: 'Vado ___ Italia.'\nA) a\nB) in\nC) da",
+        "correct_answers": ["b", "in"],
+        "explanation": "🇮🇹 Con i nomi di nazione si usa 'in'.\n🇩🇪 Bei Ländernamen verwendet man 'in'.",
+        "keywords": ["preposizioni"]
+    },
+    {
+        "question": "Completa / Ergänze: 'Voi ___ la tv.'\nA) guardate\nB) guardi\nC) guardano",
+        "correct_answers": ["a", "guardate"],
+        "explanation": "🇮🇹 Seconda persona plurale (voi) di guardare.\n🇩🇪 Zweite Person Plural (voi) von guardare.",
+        "keywords": ["verbi"]
+    },
+    {
+        "question": "Come si dice 'Reis' in italiano?\nA) Pasta\nB) Pane\nC) Riso",
+        "correct_answers": ["c", "riso"],
+        "explanation": "🇮🇹 'Riso' è la traduzione di Reis.\n🇩🇪 'Riso' ist die Übersetzung von Reis.",
+        "keywords": ["vocabolario", "cibo"]
+    },
+    {
+        "question": "Traduci / Übersetze: 'Es ist zwei Uhr.' (14:00)\nA) È le due\nB) Sono le due\nC) Sono due",
+        "correct_answers": ["b", "sono le due"],
+        "explanation": "🇮🇹 Per tutte le ore tranne l'una si usa 'Sono le...'.\n🇩🇪 Für alle Uhrzeiten außer eins verwendet man 'Sono le...'.",
+        "keywords": ["orario"]
+    },
+    {
+        "question": "Scegli l'aggettivo / Wähle das Adjektiv: 'I ragazzi sono ___.'\nA) stanco\nB) stanca\nC) stanchi",
+        "correct_answers": ["c", "stanchi"],
+        "explanation": "🇮🇹 L'aggettivo concorda con il maschile plurale.\n🇩🇪 Das Adjektiv stimmt mit dem männlichen Plural überein.",
+        "keywords": ["aggettivi"]
+    },
+    {
+        "question": "Scegli la forma corretta / Wähle die richtige Form: 'Domani noi ___ per Roma.'\nA) partiamo\nB) partite\nC) partono",
+        "correct_answers": ["a", "partiamo"],
+        "explanation": "🇮🇹 Il verbo 'partire' alla prima persona plurale è 'partiamo'.\n🇩🇪 Das Verb 'partire' in der ersten Person Plural ist 'partiamo'.",
+        "keywords": ["verbi", "partire"]
+    },
+    {
+        "question": "Traduci / Übersetze: 'Ich beende meine Hausaufgaben.'",
+        "correct_answers": ["finisco i compiti", "finisco i miei compiti"],
+        "explanation": "🇮🇹 Il verbo 'finire' è un verbo in -ire che usa il suffisso -isc-.\n🇩🇪 Das Verb 'finire' ist ein Verb auf -ire, das das Suffix -isc- verwendet.",
+        "keywords": ["verbi", "finire"]
+    },
+    {
+        "question": "Completa la frase / Ergänze den Satz: 'Non ___ l'italiano molto bene.'\nA) capisco\nB) capisci\nC) capisce",
+        "correct_answers": ["a", "capisco"],
+        "explanation": "🇮🇹 Prima persona singolare di 'capire' (capisco).\n🇩🇪 Erste Person Singular von 'capire' (capisco).",
+        "keywords": ["verbi", "capire"]
+    },
+    {
+        "question": "Come si dice 'Großmutter' in italiano?\nA) Mamma\nB) Nonna\nC) Zia",
+        "correct_answers": ["b", "nonna"],
+        "explanation": "🇮🇹 'Nonna' è la madre di uno dei genitori.\n🇩🇪 'Nonna' ist die Mutter eines Elternteils.",
+        "keywords": ["famiglia"]
+    },
+    {
+        "question": "Scegli la preposizione / Wähle die Präposition: 'Lavoro ___ ufficio.'\nA) a\nB) in\nC) per",
+        "correct_answers": ["b", "in"],
+        "explanation": "🇮🇹 Si dice 'in ufficio'.\n🇩🇪 Man sagt 'in ufficio'.",
+        "keywords": ["preposizioni", "luoghi"]
+    },
+    {
+        "question": "Traduci / Übersetze: 'Ich möchte einen Apfelsaft.'",
+        "correct_answers": ["vorrei un succo di mela"],
+        "explanation": "🇮🇹 'Vorrei' è il condizionale di volere per chiedere gentilmente.\n🇩🇪 'Vorrei' ist der Konditional von volere, um höflich zu fragen.",
+        "keywords": ["cibo", "ordinare"]
+    },
+    {
+        "question": "Che ore sono? / Wie spät ist es? (12:00)\nA) È mezzogiorno\nB) Sono le dodici\nC) Entrambe (A e B)",
+        "correct_answers": ["c", "entrambe"],
+        "explanation": "🇮🇹 Si può dire 'mezzogiorno' o 'le dodici'.\n🇩🇪 Man kann 'mezzogiorno' oder 'le dodici' sagen.",
+        "keywords": ["orario"]
+    },
+    {
+        "question": "Scegli la forma corretta / Wähle die richtige Form: 'Voi ___ sempre la verità.'\nA) dite\nB) diciamo\nC) dicono",
+        "correct_answers": ["a", "dite"],
+        "explanation": "🇮🇹 Seconda persona plurale del verbo irregolare 'dire'.\n🇩🇪 Zweite Person Plural des unregelmäßigen Verbs 'dire'.",
+        "keywords": ["verbi", "irregolari"]
+    },
+    {
+        "question": "Come si dice 'Freizeit' in italiano?\nA) Tempo libero\nB) Lavoro\nC) Scuola",
+        "correct_answers": ["a", "tempo libero"],
+        "explanation": "🇮🇹 'Tempo libero' è il tempo fuori dal lavoro.\n🇩🇪 'Tempo libero' ist die Zeit außerhalb der Arbeit.",
+        "keywords": ["vocabolario"]
+    },
+    {
+        "question": "Traduci / Übersetze: 'Ich gehe ins Kino.'",
+        "correct_answers": ["vado al cinema"],
+        "explanation": "🇮🇹 Si usa la preposizione articolata 'al' (a + il).\n🇩🇪 Man verwendet die artikulierte Präposition 'al' (a + il).",
+        "keywords": ["preposizioni", "hobby"]
+    },
+    {
+        "question": "Completa / Ergänze: 'Mio padre ___ in banca.'\nA) lavora\nB) lavoro\nC) lavori",
+        "correct_answers": ["a", "lavora"],
+        "explanation": "🇮🇹 Terza persona singolare di lavorare.\n🇩🇪 Dritte Person Singular von lavorare.",
+        "keywords": ["verbi", "famiglia"]
+    },
+    {
+        "question": "Scegli l'aggettivo corretto / Wähle das richtige Adjektiv: 'Il caffè è ___.'\nA) caldo\nB) calda\nC) caldi",
+        "correct_answers": ["a", "caldo"],
+        "explanation": "🇮🇹 'Caffè' è maschile singolare.\n🇩🇪 'Caffè' ist männlich Singular.",
+        "keywords": ["aggettivi"]
+    },
+    {
+        "question": "Come si dice 'Mittagessen' in italiano?\nA) Colazione\nB) Pranzo\nC) Cena",
+        "correct_answers": ["b", "pranzo"],
+        "explanation": "🇮🇹 Il 'pranzo' si mangia a metà giornata.\n🇩🇪 Das 'pranzo' wird in der Mitte des Tages gegessen.",
+        "keywords": ["cibo"]
+    },
+    {
+        "question": "Traduci / Übersetze: 'Ich trinke einen Tee.'",
+        "correct_answers": ["bevo un tè", "io bevo un tè"],
+        "explanation": "🇮🇹 Il verbo irregolare 'bere' fa 'bevo' alla prima persona.\n🇩🇪 Das unregelmäßige Verb 'bere' ist 'bevo' in der ersten Person.",
+        "keywords": ["verbi", "bere"]
+    },
+    {
+        "question": "Scegli la preposizione / Wähle die Präposition: 'Vengo ___ Milano.'\nA) di\nB) da\nC) a",
+        "correct_answers": ["b", "da"],
+        "explanation": "🇮🇹 Si usa 'da' per indicare la provenienza.\n🇩🇪 Man verwendet 'da', um die Herkunft anzugeben.",
+        "keywords": ["preposizioni"]
+    },
+    {
+        "question": "Completa / Ergänze: 'Voglio ___ un gelato.'\nA) mangiare\nB) mangio\nC) mangia",
+        "correct_answers": ["a", "mangiare"],
+        "explanation": "🇮🇹 Dopo il verbo 'volere' si usa l'infinito.\n🇩🇪 Nach dem Verb 'volere' verwendet man den Infinitiv.",
+        "keywords": ["verbi", "modali"]
+    },
+    {
+        "question": "Come si dice 'Cousin' in italiano?\nA) Fratello\nB) Cugino\nC) Zio",
+        "correct_answers": ["b", "cugino"],
+        "explanation": "🇮🇹 'Cugino' è il figlio degli zii.\n🇩🇪 'Cugino' ist der Sohn der Tanten/Onkel.",
+        "keywords": ["famiglia"]
+    },
+    {
+        "question": "Traduci / Übersetze: 'Ich kann kommen.'",
+        "correct_answers": ["posso venire"],
+        "explanation": "🇮🇹 'Posso' è la prima persona di potere.\n🇩🇪 'Posso' ist die erste Person von potere.",
+        "keywords": ["verbi", "modali"]
+    },
+    {
+        "question": "Scegli la forma corretta / Wähle die richtige Form: 'Domani noi ___ studiare.'\nA) dobbiamo\nB) dovete\nC) devono",
+        "correct_answers": ["a", "dobbiamo"],
+        "explanation": "🇮🇹 Prima persona plurale di dovere.\n🇩🇪 Erste Person Plural von dovere.",
+        "keywords": ["verbi", "modali"]
+    },
+    {
+        "question": "Come si dice 'Tante' in italiano?\nA) Nonna\nB) Zia\nC) Sorella",
+        "correct_answers": ["b", "zia"],
+        "explanation": "🇮🇹 'Zia' è la sorella del padre o della madre.\n🇩🇪 'Zia' ist die Schwester des Vaters oder der Mutter.",
+        "keywords": ["famiglia"]
+    },
+    {
+        "question": "Traduci / Übersetze: 'Ich spreche mit Marco.'",
+        "correct_answers": ["parlo con marco"],
+        "explanation": "🇮🇹 'Con' è la preposizione per indicare compagnia.\n🇩🇪 'Con' ist die Präposition, um Begleitung anzugeben.",
+        "keywords": ["preposizioni"]
+    },
+    {
+        "question": "Completa / Ergänze: 'Questo regalo è ___ te.'\nA) per\nB) con\nC) da",
+        "correct_answers": ["a", "per"],
+        "explanation": "🇮🇹 'Per' indica il destinatario.\n🇩🇪 'Per' gibt den Empfänger an.",
+        "keywords": ["preposizioni"]
+    },
+    {
+        "question": "Scegli la preposizione / Wähle die Präposition: 'La penna è ___ tavolo.'\nA) in\nB) sul\nC) per",
+        "correct_answers": ["b", "sul"],
+        "explanation": "🇮🇹 'Sul' (su + il) indica posizione sopra qualcosa.\n🇩🇪 'Sul' (su + il) gibt die Position über etwas an.",
+        "keywords": ["preposizioni"]
+    },
+    {
+        "question": "Traduci / Übersetze: 'Ich gehe mit Freunden aus.'",
+        "correct_answers": ["esco con gli amici"],
+        "explanation": "🇮🇹 'Uscire' è irregolare (esco).\n🇩🇪 'Uscire' ist unregelmäßig (esco).",
+        "keywords": ["verbi", "uscire"]
+    },
+    {
+        "question": "Che ore sono? / Wie spät ist es? (09:15)\nA) Sono le nove e un quarto\nB) Sono le nove e quindici\nC) Entrambe (A e B)",
+        "correct_answers": ["c", "entrambe"],
+        "explanation": "🇮🇹 Entrambe le forme sono corrette.\n🇩🇪 Beide Formen sind korrekt.",
+        "keywords": ["orario"]
+    },
+    {
+        "question": "Scegli la forma corretta / Wähle die richtige Form: 'Loro ___ al mare.'\nA) va\nB) andate\nC) vanno",
+        "correct_answers": ["c", "vanno"],
+        "explanation": "🇮🇹 Terza persona plurale di andare.\n🇩🇪 Dritte Person Plural von andare.",
+        "keywords": ["verbi", "andare"]
+    },
+    {
+        "question": "Come si dice 'Gemüse' in italiano?\nA) Frutta\nB) Verdura\nC) Carne",
+        "correct_answers": ["b", "verdura"],
+        "explanation": "🇮🇹 'Verdura' è la traduzione di Gemüse.\n🇩🇪 'Verdura' ist die Übersetzung von Gemüse.",
+        "keywords": ["cibo"]
+    },
+    {
+        "question": "Traduci / Übersetze: 'Ich esse einen Apfel.'",
+        "correct_answers": ["mangio una mela", "io mangio una mela"],
+        "explanation": "🇮🇹 'Mela' è femminile.\n🇩🇪 'Mela' ist weiblich.",
+        "keywords": ["cibo"]
+    },
+    {
+        "question": "Scegli la preposizione / Wähle die Präposition: 'Andiamo ___ montagna.'\nA) in\nB) a\nC) per",
+        "correct_answers": ["a", "in"],
+        "explanation": "🇮🇹 Si dice 'in montagna'.\n🇩🇪 Man sagt 'in montagna'.",
+        "keywords": ["preposizioni", "luoghi"]
+    },
+    {
+        "question": "Come si dice 'Wie geht es dir?' in italiano?\nA) Come stai?\nB) Come va?\nC) Entrambe (A e B)",
+        "correct_answers": ["c", "entrambe"],
+        "explanation": "🇮🇹 Entrambe sono usate per chiedere come sta qualcuno.\n🇩🇪 Beide werden verwendet, um zu fragen, wie es jemandem geht.",
+        "keywords": ["conversazione"]
+    }
+]
