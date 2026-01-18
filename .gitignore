@@ -4,8 +4,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Environment variables
+# Environment variables and User Data
 .env
+errori.json
+progress.json
 
 # Virtual Environment
 .venv/
