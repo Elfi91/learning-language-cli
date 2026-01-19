@@ -26,6 +26,19 @@ class QuizEngine:
         """
         print(art)
 
+    @staticmethod
+    def normalize_text(text: str) -> str:
+        """Normalizes text by lowercasing, stripping, and removing trailing punctuation."""
+        import string
+        if not text:
+            return ""
+        # Lowercase and strip whitespace
+        text = text.lower().strip()
+        # Strip trailing punctuation (.,!,?) but not internal punctuation
+        if text and text[-1] in string.punctuation:
+            text = text.rstrip(string.punctuation)
+        return text
+
     def run(self, offline_mode: bool = False, custom_questions: list = None, session_length: int = 15, silent_start: bool = False, level: str = "A1"):
         """Starts the main quiz loop."""
         if not silent_start:
@@ -159,18 +172,8 @@ class QuizEngine:
                 # Local Verification
                 print("Checking answer...")
                 
-                # Normalization Function
-                def normalize(text):
-                    import string
-                    # Lowercase and strip whitespace
-                    text = text.lower().strip()
-                    # Strip trailing punctuation (.,!,?) but not internal punctuation
-                    if text and text[-1] in string.punctuation:
-                        text = text.rstrip(string.punctuation)
-                    return text
-
-                cleaned_user_answer = normalize(user_answer)
-                normalized_correct_answers = [normalize(ans) for ans in correct_answers]
+                cleaned_user_answer = self.normalize_text(user_answer)
+                normalized_correct_answers = [self.normalize_text(ans) for ans in correct_answers]
                 
                 is_correct = cleaned_user_answer in normalized_correct_answers
                 

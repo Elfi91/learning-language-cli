@@ -172,12 +172,38 @@ def main():
                 if back_to_menu:
                     continue
 
+# ... 
+
+                # OFFLINE SUB-MENU: Random or Category
+                while True:
+                    print("\nChoose Question Type:")
+                    print("1. Random Questions")
+                    print("2. By Category (In Progress)")
+                    
+                    sub_choice = input("Choice: ").strip()
+                    
+                    if sub_choice == "1":
+                        break # Proceed to session length
+                    elif sub_choice == "2":
+                        print("\n🚧  Feature in progress. Please choose 'Random Questions' for now.")
+                        # Loop back to ask again
+                    else:
+                        print("Invalid choice.")
+
             # Ask for Session Length (Skip for Review Mode, Mode 3)
             silent_start = False
             if mode_choice == "3":
                  session_length = len(custom_questions)
                  silent_start = True
-            else:
+            elif mode_choice == "2": # OFFLINE MODE
+                print("\nHow many questions do you want to answer? (15 / 30 / 50)")
+                length_input = input("Number [Default 15]: ").strip()
+                session_length = 15
+                if length_input in ["30", "50"]:
+                    session_length = int(length_input)
+                elif length_input and length_input != "15":
+                    print("Invalid number. Using default: 15.")
+            else: # ONLINE MODE
                 print("\nHow many questions do you want to answer? (10 or 20)")
                 length_input = input("Number [Default 10]: ").strip()
                 
