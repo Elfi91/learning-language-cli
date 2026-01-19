@@ -115,6 +115,25 @@ def main():
                      print("⚠️  No valid questions to review.")
                      continue
 
+            # Level Selection (Online Mode)
+            selected_level = "A1" # Default
+            if mode_choice == "1":
+                print("\nSelect Difficulty Level:")
+                print("1. A1")
+                print("2. A2")
+                print("3. B1")
+                print("4. B2")
+                print("5. C1")
+                print("6. C2")
+                
+                lvl_map = {"1": "A1", "2": "A2", "3": "B1", "4": "B2", "5": "C1", "6": "C2"}
+                lvl_choice = input("Choice [Default A1]: ").strip()
+                if lvl_choice in lvl_map:
+                    selected_level = lvl_map[lvl_choice]
+                else:
+                    print("Defaulting to A1.")
+
+
             # OFFLINE LEVEL SELECTION
             elif mode_choice == "2":
                 back_to_menu = False
@@ -159,19 +178,17 @@ def main():
                  session_length = len(custom_questions)
                  silent_start = True
             else:
-                print("\nHow many questions do you want to answer? (15 / 30 / 50)")
-                length_input = input("Number [Default 15]: ").strip()
+                print("\nHow many questions do you want to answer? (10 or 20)")
+                length_input = input("Number [Default 10]: ").strip()
                 
-                session_length = 15
+                session_length = 10
                 if length_input:
-                     try:
-                         val = int(length_input)
-                         if val > 0:
-                             session_length = val
-                     except ValueError:
-                         print("Invalid number. Using default: 15.")
+                     if length_input == "20":
+                         session_length = 20
+                     elif length_input != "10":
+                         print("Invalid number. Using default: 10.")
 
-            engine.run(offline_mode=offline_mode, custom_questions=custom_questions, session_length=session_length, silent_start=silent_start)
+            engine.run(offline_mode=offline_mode, custom_questions=custom_questions, session_length=session_length, silent_start=silent_start, level=selected_level)
             
             # Prompt to return to menu
             print("\n" + "-"*40)

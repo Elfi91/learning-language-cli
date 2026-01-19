@@ -20,16 +20,17 @@ class GeminiClient:
         stop=stop_after_attempt(5),
         reraise=True
     )
-    def generate_batch_questions(self, count: int = 20) -> list:
+    def generate_batch_questions(self, count: int = 20, level: str = "A1") -> list:
         """Generates a batch of quiz questions in JSON format."""
         prompt = (
             f"You are an Italian language tutor for a German speaker. "
-            f"Generate {count} distinct quiz questions in german. "
-            "Mix Translation questions and Multiple Choice Questions (A, B, C). "
+            f"Generate {count} distinct quiz questions in german for proficiency level {level}. "
+            f"STRICTLY generate exactly {count // 2} Multiple Choice Questions (with options A, B, C) and {count - (count // 2)} Open Translation questions. "
+            "For translation questions, provide ALL valid variations (synonyms, different word orders) in 'correct_answers' list. "
             "Return a JSON LIST of objects. Each object must have this structure:\n"
             "{\n"
             '  "question": "The question text (including options if MCQ)",\n'
-            '  "correct_answers": ["list", "of", "acceptable", "answers", "or", "A"/"B"/"C"],\n'
+            '  "correct_answers": ["variant1", "variant2", "A", ...],\n'
             '  "explanation": "Bilingual explanation (IT + DE) incase of error",\n'
             '  "keywords": ["key", "words", "related", "to", "topic"]\n'
             "}"

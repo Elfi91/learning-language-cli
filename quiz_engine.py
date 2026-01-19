@@ -26,7 +26,7 @@ class QuizEngine:
         """
         print(art)
 
-    def run(self, offline_mode: bool = False, custom_questions: list = None, session_length: int = 15, silent_start: bool = False):
+    def run(self, offline_mode: bool = False, custom_questions: list = None, session_length: int = 15, silent_start: bool = False, level: str = "A1"):
         """Starts the main quiz loop."""
         if not silent_start:
             print(f"Welcome! Starting a session of {session_length} questions. Type 'exit' to quit.\n")
@@ -78,11 +78,15 @@ class QuizEngine:
                          # If offline queue is empty, we are done (handled by session limit check usually, but just in case)
                          break
                     else:
-                        print("Generating questions...")
+                        print(f"Generating questions for level {level}...")
                         # Calculate how many needed
                         needed = session_length - questions_answered
-                        batch_size = min(20, needed) 
-                        question_queue = self.client.generate_batch_questions(batch_size)
+                        # Important: Don't request too few if it's the start, but also max at session_length
+                        # If session_length is 10, we just ask for 10.
+                        # If session_length is 20, we ask for 20 (batch_size max is usually 20 in prompt logic anyway)
+                        batch_size = needed 
+                        
+                        question_queue = self.client.generate_batch_questions(batch_size, level=level)
                     if not question_queue:
                         consecutive_failures += 1
                         if consecutive_failures >= 3:
@@ -154,15 +158,31 @@ class QuizEngine:
 
                 # Local Verification
                 print("Checking answer...")
-                cleaned_user_answer = user_answer.strip().lower()
-                is_correct = cleaned_user_answer in correct_answers
+                
+                # Normalization Function
+                def normalize(text):
+                    import string
+                    # Lowercase and strip whitespace
+                    text = text.lower().strip()
+                    # Strip trailing punctuation (.,!,?) but not internal punctuation
+                    if text and text[-1] in string.punctuation:
+                        text = text.rstrip(string.punctuation)
+                    return text
+
+                cleaned_user_answer = normalize(user_answer)
+                normalized_correct_answers = [normalize(ans) for ans in correct_answers]
+                
+                is_correct = cleaned_user_answer in normalized_correct_answers
                 
                 # Special check for multiple choice single letters
                 is_multiple_choice = "A)" in question_text and "B)" in question_text
                 if is_multiple_choice and len(cleaned_user_answer) == 1 and cleaned_user_answer.isalpha():
                      # Fix Bug 2 ("Letter-Trap"): Only match if strict equality with a single-letter option
                      # e.g. if user says 'a', correct_answers must contain exactly 'a', not just something starting with 'a'
-                     is_correct = cleaned_user_answer in correct_answers
+                     # We trust correct_answers are already stripped/lowered above, but let's be safe
+                     # For MCQ, usually the correct answer list might be ["A", "The actual text"] or just ["A"]
+                     # We check if the letter is in there.
+                     is_correct = any(a.lower() == cleaned_user_answer for a in correct_answers)
 
 
 
@@ -172,6 +192,7 @@ class QuizEngine:
                     self.data_manager.remove_error(question_text)
                 else:
                     print("\n❌ Sbagliato / Falsch")
+                    print(f"   Risposta attesa: {', '.join(correct_answers)}")
                     
                     # Smart Explanation Lookup
                     past_errors = self.data_manager.load_errors()
